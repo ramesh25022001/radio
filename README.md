@@ -12,7 +12,7 @@ NOTE: Make sure you have started a VoiceChat in your Group before deploying.
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/subinps/MusicPlayer
+git clone https://github.com/ramesh25022001/radio
 cd MusicPlayer
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -52,8 +52,4 @@ python3 main.py
 
 
 #### Support
-
-
-## Credits 
-- [Dash Eclipse's](https://github.com/dashezup) for his [tgvc-userbot](https://github.com/callsmusic/tgvc-userbot).
 
